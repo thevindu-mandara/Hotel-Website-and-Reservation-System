@@ -1,0 +1,12 @@
+
+_
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄÞ8ƒ¼õþû1
+_
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄÞ8‡¼õþû1
+]	java:S125X"<This block of commented-out lines of code should be removed.(ÎìÊûýÿÿÿÿ8’½õþû1
+l
+java:S1128	"ORemove this unused import 'org.springframework.beans.factory.annotation.Value'.(ìø›8ªØ“…ÿ1
+M
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8«Ø“…ÿ1
+M
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8«Ø“…ÿ1
